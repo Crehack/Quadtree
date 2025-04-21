@@ -1,0 +1,34 @@
+{
+    "DebugMode": false,
+    "NumTileX": 9,
+    "NumTileY": 9,
+    "TileSize": 16,
+    "NumCharacterAnimImages": 4,
+    "NumFramePerCharacterAnimImage": 5,
+    "NumTileForDebug": 6,
+    "CameraMode": 2,
+    "FloorKind": 2,
+    "FloorFile": "../floor-files/9x9",
+
+
+    "Randomfloor":  true,
+	"Floorwidth" : 20,
+	"Floorheight" : 20,
+
+    "Save" : true,
+
+    "blockingwater" : false,
+
+    "MovingWater" : true,
+
+    "CameraBlock" : false,
+
+    "Zoom" : false,
+
+    "Teleporteur" : true,
+
+    "RoundWorld" : false,
+    "CameraPrecise": false,
+
+    "Infinie": true
+}
